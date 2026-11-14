@@ -1,127 +1,143 @@
 # Hi, I'm Abdulsamad 👋
 
-### Frontend Developer | React · JavaScript · Tailwind CSS
+### Computer Science Student | Aspiring Frontend Developer
+**React · JavaScript · HTML · CSS · Tailwind CSS**
 
-I’m a frontend developer focused on creating **responsive, accessible, and user-friendly web experiences**. I enjoy taking an idea from a simple layout to an interactive interface, solving practical problems with code, and refining the details that make an application easier to use.
+I'm a Computer Science student building practical skills in frontend development and working towards a professional career as a frontend developer. I enjoy turning ideas into clean, responsive, and user-friendly web interfaces.
 
-I learn by building. My projects help me practise writing clean HTML and CSS, structuring React interfaces, working with APIs, handling application state, and making layouts work across different screen sizes.
+Through hands-on projects, I have been developing experience with HTML, CSS, JavaScript, React, API integration, responsive layouts, and Git/GitHub. I'm continuously improving how I structure code, solve problems, and build accessible interfaces.
 
----
-
-## 👨‍💻 About Me
-
-- 🔭 **Currently working on:** An Expense Tracker built with React and Tailwind CSS
-- 🌱 **Currently improving:** React patterns, JavaScript problem-solving, accessibility, responsive design, and maintainable frontend architecture
-- 🧩 **I enjoy:** Building practical interfaces, debugging, learning new techniques, and improving existing projects
-- 🎯 **Career goal:** Grow into a professional frontend developer and contribute to real-world products
-- 🤝 **Open to:** Learning opportunities, collaboration, and feedback that help me become a stronger developer
+**I'm currently open to frontend development internships, student opportunities, and suitable entry-level roles where I can contribute, learn from experienced developers, and grow as part of a team.**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 Professional Profile
 
-| Area | Technologies |
+- 🎓 **Education:** Computer Science student
+- 💻 **Career focus:** Frontend Development
+- 🔭 **Currently building:** An Expense Tracker using React and Tailwind CSS
+- 🌱 **Currently developing:** Stronger React skills, JavaScript problem-solving, responsive design, accessibility, and maintainable code
+- 🤝 **Interested in:** Frontend internships, entry-level opportunities, collaborative projects, and open-source contributions
+- 📍 **Location:** Nigeria
+
+---
+
+## 🧰 Technical Skills
+
+| Category | Skills |
 | --- | --- |
-| Markup & styling | HTML5, CSS3 |
-| Programming | JavaScript (ES6+) |
-| Frontend library | React |
-| CSS utility framework | Tailwind CSS |
+| Web development | HTML5, CSS3, JavaScript (ES6+) |
+| Frontend | React |
+| Styling | Tailwind CSS, responsive CSS layouts |
+| API integration | Fetching and displaying data from web APIs |
 | Version control | Git, GitHub |
 | Development tools | Vite, browser developer tools |
 
-I use these tools to build interfaces, organise components and styles, manage code changes, and test my work during development.
+**Practising and strengthening:** component design, state management, accessibility, debugging, error handling, and frontend project organisation.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 1. [Taskflow](https://github.com/AbdulsamadAdeyemi/taskflow)
+These projects demonstrate my practical learning and the frontend skills I am developing.
+
+### [Taskflow — Task Management App](https://github.com/AbdulsamadAdeyemi/taskflow)
+
 A task-management application built with React.
 
-**What it demonstrates:**
-- Building a user interface from reusable React components
-- Managing task-related application state
-- Working with browser local storage to retain tasks between visits
-- Structuring and refining a small frontend application
+**Key areas demonstrated**
+- Building interfaces with reusable React components
+- Managing application state for task interactions
+- Using browser local storage to retain tasks between visits
+- Organising a frontend application
 
 **Technologies:** React, JavaScript, CSS, Vite
 
-### 2. [Weatherly](https://github.com/AbdulsamadAdeyemi/Weatherly)
-A weather application that uses a weather API to retrieve information for searched locations.
+### [Weatherly — Weather App](https://github.com/AbdulsamadAdeyemi/Weatherly)
 
-**What it demonstrates:**
-- Connecting a frontend application to external APIs
-- Handling asynchronous requests
-- Working with location search and weather data
-- Displaying API results in a user interface
+A weather application that retrieves weather information for searched locations using a weather API.
+
+**Key areas demonstrated**
+- Integrating a frontend application with an external API
+- Working with asynchronous JavaScript requests
+- Handling location search and displaying returned data
+- Presenting dynamic information in a React interface
 
 **Technologies:** React, JavaScript, weather API, Vite
 
-### 3. [Commerce Website](https://github.com/AbdulsamadAdeyemi/commerce-)
-An e-commerce-style frontend interface created with HTML and CSS.
+### [Commerce Website — E-commerce UI](https://github.com/AbdulsamadAdeyemi/commerce-)
 
-**What it demonstrates:**
+An e-commerce-style website interface built with HTML and CSS.
+
+**Key areas demonstrated**
 - Structuring a multi-section webpage
-- Creating product and category presentation layouts
-- Building responsive page styling
-- Organising local visual assets
+- Creating product and category layouts
+- Styling page sections and responsive layouts
+- Working with local visual assets
 
 **Technologies:** HTML, CSS
 
-*This is a static frontend demonstration; it does not currently provide a working cart, checkout, or payment system.*
+*Project scope: static frontend interface; cart, checkout, payments, and order processing are not implemented.*
 
-### 4. [Food Website](https://github.com/AbdulsamadAdeyemi/food_website)
-A food-themed website focused on page layout, styling, and navigation.
+### [Food Website](https://github.com/AbdulsamadAdeyemi/food_website)
 
-**What it demonstrates:**
-- Creating a visually engaging website layout
-- Styling navigation and page sections
-- Working with responsive behaviour and interactive navigation
-- Improving keyboard accessibility
+A food-themed website focused on layout, styling, and navigation.
+
+**Key areas demonstrated**
+- Building a multi-section website
+- Styling navigation and page content
+- Working with responsive behaviour
+- Adding interactive navigation behaviour
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 5. [Blogger Website](https://github.com/AbdulsamadAdeyemi/bl0gger_website)
-A blog-style website interface.
+### [Blogger Website](https://github.com/AbdulsamadAdeyemi/bl0gger_website)
 
-**What it demonstrates:**
+A blog-style website interface focused on content presentation and visual layout.
+
+**Key areas demonstrated**
 - Creating content-focused page layouts
-- Working with typography, spacing, and visual hierarchy
+- Applying typography, spacing, and visual hierarchy
 - Styling navigation and responsive sections
 
 **Technologies:** HTML, CSS, JavaScript
 
 ---
 
-## 📚 What I'm Working to Improve
+## 📚 Current Learning Focus
 
-I’m focused on becoming confident not only at making interfaces look good, but also at building them thoughtfully.
+I am actively working to improve the skills expected in a professional frontend development environment:
 
-- **Responsive design:** Making interfaces usable on mobile, tablet, and desktop
-- **Accessibility:** Using semantic HTML, keyboard-friendly controls, labels, and clear focus states
-- **JavaScript:** Strengthening problem-solving, asynchronous code, and error handling
-- **React:** Improving component design, state management, and code organisation
-- **Code quality:** Writing readable, maintainable code and testing changes before publishing them
-- **Git & GitHub:** Building good version-control habits and documenting projects clearly
-
----
-
-## 🎯 My Development Goals
-
-1. Build and publish complete React applications that solve practical problems.
-2. Develop stronger skills in modern JavaScript and React.
-3. Make accessibility and responsive design part of my normal workflow.
-4. Learn how frontend applications connect to backend services and APIs.
-5. Collaborate with other developers and contribute to real-world projects.
+- **JavaScript:** Modern syntax, asynchronous programming, debugging, and problem-solving
+- **React:** Components, props, state, hooks, and maintainable application structure
+- **Responsive development:** Building interfaces that work across mobile, tablet, and desktop
+- **Accessibility:** Semantic HTML, keyboard navigation, form labels, and visible focus states
+- **API integration:** Loading data, handling errors, and managing loading and empty states
+- **Professional workflow:** Git branching, meaningful commits, code reviews, documentation, and testing
 
 ---
 
-## 📫 Find Me
+## 🎯 Career Interests
+
+I am interested in opportunities that will help me apply my skills to real products and learn professional development practices.
+
+**Roles and opportunities of interest**
+- Frontend Developer Intern
+- Junior Frontend Developer
+- React Developer Intern
+- Student developer programmes
+- Collaborative frontend projects
+
+I value clear communication, constructive feedback, continuous learning, and writing code that other developers can understand and maintain.
+
+---
+
+## 📬 Contact
 
 - **GitHub:** [@AbdulsamadAdeyemi](https://github.com/AbdulsamadAdeyemi)
 
-If you’re also learning frontend development, building something interesting, or have constructive feedback on one of my projects, feel free to connect.
+For recruiters and teams: I'm interested in discussing suitable frontend internship and entry-level opportunities. Please reach out through my GitHub profile.
 
 ---
 
-*Building consistently, learning from every project, and improving one step at a time.* 
+*Learning with purpose. Building through practice. Preparing to contribute to real-world software teams.*
