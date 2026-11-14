@@ -13,7 +13,9 @@ Through hands-on projects, I have been developing experience with HTML, CSS, Jav
 
 ## 👨‍💻 Professional Profile
 
-- 🎓 **Education:** Computer Science student
+- 🎓 **Education:** B.Sc. Computer Science student
+- 📚 **Academic level:** 400 Level
+- 🎓 **Expected graduation:** 2027
 - 💻 **Career focus:** Frontend Development
 - 🔭 **Currently building:** An Expense Tracker using React and Tailwind CSS
 - 🌱 **Currently developing:** Stronger React skills, JavaScript problem-solving, responsive design, accessibility, and maintainable code
@@ -134,6 +136,7 @@ I value clear communication, constructive feedback, continuous learning, and wri
 
 ## 📬 Contact
 
+- **Email:** [adeyemiabdulsamad6@gmail.com](mailto:adeyemiabdulsamad6@gmail.com)
 - **GitHub:** [@AbdulsamadAdeyemi](https://github.com/AbdulsamadAdeyemi)
 
 For recruiters and teams: I'm interested in discussing suitable frontend internship and entry-level opportunities. Please reach out through my GitHub profile.
