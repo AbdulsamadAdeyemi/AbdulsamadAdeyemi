@@ -1,6 +1,6 @@
 # Hi, I'm Abdulsamad 👋
 
-### Computer Science Student | Aspiring Frontend Developer
+### Frontend Developer | Computer Science Student
 **React · JavaScript · HTML · CSS · Tailwind CSS**
 
 I'm a Computer Science student building practical skills in frontend development and working towards a professional career as a frontend developer. I enjoy turning ideas into clean, responsive, and user-friendly web interfaces.
