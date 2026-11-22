@@ -7,7 +7,7 @@ I'm a Computer Science student building practical skills in frontend development
 
 Through hands-on projects, I have been developing experience with HTML, CSS, JavaScript, React, API integration, responsive layouts, and Git/GitHub. I'm continuously improving how I structure code, solve problems, and build accessible interfaces.
 
-**I'm currently open to frontend development internships, student opportunities, and suitable entry-level roles where I can contribute, learn from experienced developers, and grow as part of a team.**
+**I'm open to frontend development internships, student opportunities, and suitable entry-level roles where I can contribute, learn from experienced developers, and grow as part of a team.**
 
 ---
 
@@ -17,7 +17,7 @@ Through hands-on projects, I have been developing experience with HTML, CSS, Jav
 - 📚 **Academic level:** 400 Level
 - 🎓 **Expected graduation:** 2027
 - 💻 **Career focus:** Frontend Development
-- 🔭 **Currently building:** An Expense Tracker using React and Tailwind CSS
+- ✨ **Recently completed:** SpendWise, a React-based personal expense tracker
 - 🌱 **Currently developing:** Stronger React skills, JavaScript problem-solving, responsive design, accessibility, and maintainable code
 - 🤝 **Interested in:** Frontend internships, entry-level opportunities, collaborative projects, and open-source contributions
 - 📍 **Location:** Nigeria
@@ -32,8 +32,9 @@ Through hands-on projects, I have been developing experience with HTML, CSS, Jav
 | Frontend | React |
 | Styling | Tailwind CSS, responsive CSS layouts |
 | API integration | Fetching and displaying data from web APIs |
+| Data visualisation | Recharts |
 | Version control | Git, GitHub |
-| Development tools | Vite, browser developer tools |
+| Development tools | Vite, npm, browser developer tools |
 
 **Practising and strengthening:** component design, state management, accessibility, debugging, error handling, and frontend project organisation.
 
@@ -42,6 +43,21 @@ Through hands-on projects, I have been developing experience with HTML, CSS, Jav
 ## 🚀 Selected Projects
 
 These projects demonstrate my practical learning and the frontend skills I am developing.
+
+### [SpendWise — Personal Expense Tracker](https://github.com/AbdulsamadAdeyemi/Spendwise)
+
+A frontend-only personal finance and expense-tracking application built with React. It supports local account flows, transaction management, spending summaries, charts, budgets, and JSON export.
+
+**Key areas demonstrated**
+- Building a multi-page React application with reusable components
+- Managing income and expense transactions
+- Persisting demo data in browser local storage
+- Displaying spending insights with charts
+- Formatting and presenting values in Nigerian Naira
+
+**Technologies:** React 19, JavaScript, Vite, Tailwind CSS v4, Recharts, localStorage
+
+*Project scope: frontend-only browser application. It has no backend; local sign-in and browser storage are for demo/personal use, not secure multi-user financial data.*
 
 ### [Taskflow — Task Management App](https://github.com/AbdulsamadAdeyemi/taskflow)
 
@@ -57,10 +73,10 @@ A task-management application built with React.
 
 ### [Weatherly — Weather App](https://github.com/AbdulsamadAdeyemi/Weatherly)
 
-A weather application that retrieves weather information for searched locations using a weather API.
+A weather application built with React to retrieve and display weather information for searched locations.
 
 **Key areas demonstrated**
-- Integrating a frontend application with an external API
+- Integrating a frontend application with a weather API
 - Working with asynchronous JavaScript requests
 - Handling location search and displaying returned data
 - Presenting dynamic information in a React interface
