@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=210&section=header&text=ABDULSAMAD%20ADEYEMI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20JavaScript&descAlignY=58&descSize=17" width="100%" alt="Abdulsamad Adeyemi profile banner" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Abdulsamad Adeyemi — Frontend Developer" />
 </p>
 
 <p align="center">
@@ -116,6 +116,3 @@ I'm currently open to:
   <b>📍 Lagos, Nigeria</b> &nbsp;•&nbsp; <b>Available for freelance & project work</b>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="" />
-</p>
