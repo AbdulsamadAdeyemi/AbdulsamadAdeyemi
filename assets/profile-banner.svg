@@ -1,43 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Abdulsamad Adeyemi — Frontend Developer</title>
-  <desc id="desc">A dark navy and blue gradient banner with abstract geometric accents and the title Frontend Developer, React and JavaScript.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Abdulsamad Adeyemi | Frontend Developer</title>
+  <desc id="desc">A clean navy banner with a blue accent and a simple code symbol.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#071426"/>
-      <stop offset="55%" stop-color="#102b55"/>
-      <stop offset="100%" stop-color="#075985"/>
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#123b70"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#38bdf8"/>
       <stop offset="100%" stop-color="#2dd4bf"/>
     </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".28"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
-    </radialGradient>
   </defs>
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <circle cx="1010" cy="65" r="250" fill="url(#glow)"/>
-  <circle cx="1100" cy="275" r="180" fill="url(#glow)" opacity=".65"/>
-  <g fill="none" stroke="#7dd3fc" stroke-opacity=".16">
-    <path d="M820 0L1200 320M900 0L1200 250M1040 0L1200 135" stroke-width="2"/>
-    <circle cx="1030" cy="160" r="112" stroke-width="1.5"/>
-    <circle cx="1030" cy="160" r="145" stroke-width="1"/>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect x="70" y="58" width="5" height="144" rx="2.5" fill="url(#line)"/>
+  <text x="105" y="91" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+  <text x="102" y="151" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="800" letter-spacing=".4">ABDULSAMAD ADEYEMI</text>
+  <text x="105" y="190" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Frontend Developer  |  React &amp; JavaScript</text>
+  <g transform="translate(1035 130)" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-48 -30L-78 0L-48 30"/>
+    <path d="M48 -30L78 0L48 30"/>
+    <path d="M17 -48L-17 48"/>
   </g>
-  <g fill="#7dd3fc" opacity=".55">
-    <circle cx="890" cy="70" r="3"/><circle cx="930" cy="105" r="2"/>
-    <circle cx="1130" cy="75" r="3"/><circle cx="1080" cy="245" r="2.5"/>
-    <circle cx="960" cy="270" r="2"/><circle cx="1160" cy="190" r="2"/>
-  </g>
-  <rect x="72" y="68" width="7" height="184" rx="3.5" fill="url(#accent)"/>
-  <text x="108" y="112" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5">HELLO, I'M</text>
-  <text x="104" y="178" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="800" letter-spacing="1">ABDULSAMAD ADEYEMI</text>
-  <text x="108" y="222" fill="#bae6fd" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">FRONTEND DEVELOPER</text>
-  <text x="108" y="258" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="18">React  •  JavaScript  •  Responsive Web Experiences</text>
-  <g transform="translate(920 118)" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M-42 -35L-78 0L-42 35"/>
-    <path d="M42 -35L78 0L42 35"/>
-    <path d="M18 -54L-18 54"/>
-  </g>
-  <rect x="108" y="278" width="210" height="4" rx="2" fill="url(#accent)" opacity=".9"/>
+  <path d="M105 216H330" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
 </svg>
