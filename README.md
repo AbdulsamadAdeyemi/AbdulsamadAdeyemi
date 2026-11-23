@@ -1,5 +1,14 @@
 # Hi, I'm Abdulsamad 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+Developer;Building+clean+and+responsive+web+experiences;Open+to+Freelance+%26+Project+Work" alt="Animated introduction" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Lagos%2C_Nigeria-0A66C2?style=for-the-badge" alt="Location: Lagos, Nigeria" />
+  <img src="https://img.shields.io/badge/💼_Availability-Open_to_Work-2EA44F?style=for-the-badge" alt="Open to work" />
+</p>
+
 ### Frontend Developer | Computer Science Student
 **React · JavaScript · HTML · CSS · Tailwind CSS**
 
@@ -7,7 +16,7 @@ I'm a Computer Science student building practical skills in frontend development
 
 Through hands-on projects, I have been developing experience with HTML, CSS, JavaScript, React, API integration, responsive layouts, and Git/GitHub. I'm continuously improving how I structure code, solve problems, and build accessible interfaces.
 
-**I'm open to frontend development internships, student opportunities, and suitable entry-level roles where I can contribute, learn from experienced developers, and grow as part of a team.**
+**I'm open to freelance opportunities, paid project work, collaborations, frontend internships, and suitable entry-level roles.** If you have a website or frontend idea you would like to bring to life, feel free to reach out.
 
 ---
 
@@ -19,8 +28,8 @@ Through hands-on projects, I have been developing experience with HTML, CSS, Jav
 - 💻 **Career focus:** Frontend Development
 - ✨ **Recently completed:** SpendWise, a React-based personal expense tracker
 - 🌱 **Currently developing:** Stronger React skills, JavaScript problem-solving, responsive design, accessibility, and maintainable code
-- 🤝 **Interested in:** Frontend internships, entry-level opportunities, collaborative projects, and open-source contributions
-- 📍 **Location:** Nigeria
+- 📍 **Location:** Lagos, Nigeria
+- 💼 **Availability:** Open to freelance work, paid projects, collaborations, internships, and entry-level opportunities
 
 ---
 
@@ -122,6 +131,15 @@ A blog-style website interface focused on content presentation and visual layout
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulsamadAdeyemi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulsamadAdeyemi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+---
+
 ## 📚 Current Learning Focus
 
 I am actively working to improve the skills expected in a professional frontend development environment:
@@ -135,18 +153,18 @@ I am actively working to improve the skills expected in a professional frontend 
 
 ---
 
-## 🎯 Career Interests
+## 🤝 Open to Freelancing & Project Work
 
-I am interested in opportunities that will help me apply my skills to real products and learn professional development practices.
+I'm available to collaborate on:
+- Responsive business and personal websites
+- React frontend applications and dashboards
+- Landing pages and website redesigns
+- UI implementation from design references
+- Small business and student projects
 
-**Roles and opportunities of interest**
-- Frontend Developer Intern
-- Junior Frontend Developer
-- React Developer Intern
-- Student developer programmes
-- Collaborative frontend projects
+For project enquiries, please include a short description of what you need, your expected timeline, and any design references.
 
-I value clear communication, constructive feedback, continuous learning, and writing code that other developers can understand and maintain.
+I'm also interested in frontend internships, junior opportunities, student developer programmes, and open-source contributions.
 
 ---
 
@@ -154,9 +172,19 @@ I value clear communication, constructive feedback, continuous learning, and wri
 
 - **Email:** [adeyemiabdulsamad6@gmail.com](mailto:adeyemiabdulsamad6@gmail.com)
 - **GitHub:** [@AbdulsamadAdeyemi](https://github.com/AbdulsamadAdeyemi)
+- **Location:** Lagos, Nigeria
 
-For recruiters and teams: I'm interested in discussing suitable frontend internship and entry-level opportunities. Please reach out through my GitHub profile.
+<p align="center">
+  <a href="mailto:adeyemiabdulsamad6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://github.com/AbdulsamadAdeyemi">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
 
 ---
 
-*Learning with purpose. Building through practice. Preparing to contribute to real-world software teams.*
+<p align="center">
+  <i>Learning with purpose. Building through practice. Open to creating useful things together.</i>
+</p>
